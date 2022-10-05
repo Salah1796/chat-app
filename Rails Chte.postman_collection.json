@@ -2,7 +2,7 @@
 	"info": {
 		"_postman_id": "900a1d72-b653-473c-bf72-fac9594ae392",
 		"name": "Rails Chte",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
 		{
